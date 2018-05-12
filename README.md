@@ -2,7 +2,7 @@
 Код с участия в хакатонах и описание того, что делал
 
 ### Хакатоны:
-1. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/A!Hack%20Summer"> A!Hack Summer</a> - решал задачу кластеризации клиентов Альфа банка из предоставленного датасета. `clustering`
+1. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/A!Hack%20Summer"> A!Hack Summer</a>`clustering` - решал задачу кластеризации клиентов Альфа банка из предоставленного датасета. 
 2. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/MLH"> MLH</a> - Работая с временными рядами, построил модель, которая с хорошей точностью (R^2=0.98) предсказывала концентрацию определенного вещества в нефтяном продукте. ` time series`
 3. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/HSE_night_2017"> HSE_night_2017</a> - Построил модель которая предсказывала на сколько % будет заполненно кафе в обед буднего дня
 4. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/Data_Saints"> Data_Saints </a> - С помощью кластеризации клиентов X5 retail group, в рамках хакатона, выявил клиентов, которые с большой вероятностью купят определенные продукты, тк они часто покупают то, что популярно для их кластера за исключением нескольких продуктов(которые и следует порекомендовать)
