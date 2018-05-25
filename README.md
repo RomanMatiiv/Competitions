@@ -5,6 +5,6 @@
 4. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/Data_Saints"> Data_Saints </a> - С помощью кластеризации клиентов X5 retail group, в рамках хакатона, выявил клиентов, которые с большой вероятностью купят определенные продукты, тк они часто покупают то, что популярно для их кластера за исключением нескольких продуктов(которые и следует порекомендовать)<br>`clustering`
 5. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/Digital_Health_Hackathon"> Digital_Health_Hackathon</a> - Построил модель которая предсказывала код диагноза по жалобе пациента и его личных данных.<br> `NLP`
 6. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/WhateverHack"> WhateverHack</a> - Построил модель которая по описанию мема предсказывала вероятность того, что им поделяться. Сделал tf-idf описания мема преобразованного стемингом и создал несколько метапризнаков.<br> `NLP`
-7. <a href="https://github.com/RomanMatiiv/Competitions/tree/master/Finunichamp2018/1">Finunichamp2018-1</a> - 
+7. <a href="https://github.com/RomanMatiiv/Competitions/tree/master/Finunichamp2018/1">Finunichamp2018-1</a> -  Решал задачу предсказания страховой стоимости транспортного средства.
 
 8. <a href="https://github.com/RomanMatiiv/Competitions/tree/master/Finunichamp2018/2">Finunichamp2018-2</a> -  В ходе решения задачи предсказывал, будет ли заключение договора с клиентом рискованным для страховой компании. <br> `1 место` `catboost`
