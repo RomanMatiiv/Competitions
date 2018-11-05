@@ -1,4 +1,7 @@
 ## Соревнования:
+
+
+* 
 1. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/A!Hack%20Summer"> A!Hack Summer</a> - решал задачу кластеризации клиентов Альфа банка из предоставленного датасета.<br>`clustering`
 2. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/MLH"> MLH</a> - Работая с временными рядами, построил модель, которая с хорошей точностью (R^2=0.98) предсказывала концентрацию определенного вещества в нефтяном продукте.<br> ` time series`
 3. <a href="https://github.com/RomanMatiiv/Hackathons/tree/master/HSE_night_2017"> HSE_night_2017</a> - Построил модель которая предсказывала на сколько % будет заполненно кафе в обед буднего дня
