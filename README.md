@@ -1,7 +1,7 @@
 ## Соревнования:
 
 
-* <a href="https://github.com/RomanMatiiv/Competitions/tree/master/Finunichamp2018/2">Finunichamp2018-2</a> -  В ходе решения задачи предсказывал, будет ли заключение договора с клиентом рискованным для страховой компании. <br> `1 место` `catboost`
+* <a href="https://github.com/RomanMatiiv/Competitions/tree/master/Finunichamp2018/2">Finunichamp2018-2</a> -  В ходе решения задачи предсказывал, будет ли заключение договора с клиентом рискованным для страховой компании. <br> `1 место`
 
 * <a href="https://github.com/RomanMatiiv/Competitions/tree/master/Finunichamp2018/1">Finunichamp2018-1</a> -  Решал задачу предсказания страховой стоимости транспортного средства.
 
